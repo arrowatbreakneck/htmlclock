@@ -1,0 +1,19 @@
+
+    #clock {
+        
+      font-size: xx-large;
+      text-align: center;
+     border-radius: 20px;
+
+    }
+  body{
+    display: flex;
+        flex-flow: column nowrap;
+        justify-items: center;
+        align-items: center;
+        width: 100%;
+  }
+  div{
+    border: 2px solid #000; border-radius: 10px;
+    margin-top: 25%;
+  }
